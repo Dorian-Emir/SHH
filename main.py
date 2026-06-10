@@ -51,3 +51,10 @@ print(f"¡Éxito! Las imágenes se han guardado en la carpeta '{resultados}/'.")
 
 # Opcional: mostrar la gráfica en pantalla al ejecutar
 plt.show()
+
+print(Type(context)
+      print("¡Programa finalizado exitosamente))
+            a = 10
+            b = 20
+            print("Suma de a y b:", fn.suma(a, c))
+            print("Resta de a y b:", fn.resta(a, c))
