@@ -50,4 +50,4 @@ plt.savefig(ruta_eps)
 print(f"¡Éxito! Las imágenes se han guardado en la carpeta '{resultados}/'.")
 
 # Opcional: mostrar la gráfica en pantalla al ejecutar
-# plt.show()
+plt.show()
